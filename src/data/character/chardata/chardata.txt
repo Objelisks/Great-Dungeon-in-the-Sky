@@ -1,0 +1,2531 @@
+﻿:001
+name=Archer
+attack1=ranged trueshot
+attack2=ranged longbow
+attack3=ranged threeshot
+
+:002
+name=Warrior
+attack1=melee slash
+attack2=melee stab
+attack3=melee spin
+
+:003
+name=Mage
+attack1=magic magicmissile
+attack2=magic fireball
+attack3=magic shock
+
+:004
+name=Bandit
+attack1=ranged bow
+attack2=melee stab
+attack3=magic jump
+
+:005
+name=Necromancer
+attack1=magic summon097
+attack2=magic shock
+attack3=magic heal
+
+:006
+name=Paladin
+traits=strongtodark
+attack1=melee thrust
+attack2=ranged firearrow
+attack3=magic heal
+
+:007
+name=Cleric
+attack1=magic heal
+attack2=melee staff
+attack3=magic pray
+
+:008
+name=Adventurer
+attack1=melee slash
+attack2=item rope
+attack3=magic fireball
+
+:009
+name=City Guard
+attack1=melee toss
+attack2=melee stab
+attack3=melee club
+
+:010
+name=Royal Guard
+attack1=melee toss
+attack2=melee stab
+attack3=melee charge
+
+:011
+name=Holy Guard
+traits=strongtodark
+attack1=melee slash
+attack2=melee charge
+attack3=magic heal
+
+:012
+name=Buccaneer
+attack1=melee slash
+attack2=ranged pistol
+attack3=item rope
+
+:013
+name=Wizard
+attack1=magic magicmissile
+attack2=magic confuse
+attack3=magic slow
+
+:014
+name=Druid
+attack1=ranged bow
+attack2=magic entangle
+attack3=magic heal
+
+:015
+name=Ranger
+attack1=ranged trueshot
+attack2=ranged poisonarrow
+attack3=magic invisibility
+
+:016
+name=Barbarian
+attack1=melee club
+attack2=melee toss
+attack3=melee charge
+
+:017
+name=Archer Female
+attack1=ranged trueshot
+attack2=ranged longbow
+attack3=ranged threeshot
+
+:018
+name=Warrior Female
+attack1=melee slash
+attack2=melee stab
+attack3=melee spin
+
+:019
+name=Mage Female
+attack1=magic magicmissile
+attack2=magic fireball
+attack3=magic shock
+
+:020
+name=Bandit Female
+attack1=ranged bow
+attack2=melee stab
+attack3=magic jump
+
+:021
+name=Necromancer Female
+attack1=magic summon097
+attack2=magic shock
+attack3=magic heal
+
+:022
+name=Paladin Female
+traits=strongtodark
+attack1=melee thrust
+attack2=ranged firearrow
+attack3=magic heal
+
+:023
+name=Cleric Female
+attack1=magic heal
+attack2=melee staff
+attack3=magic pray
+
+:024
+name=Adventurer Female
+attack1=melee slash
+attack2=item rope
+attack3=magic fireball
+
+:025
+name=City Guard Female
+attack1=melee toss
+attack2=melee stab
+attack3=melee club
+
+:026
+name=Royal Guard Female
+attack1=melee toss
+attack2=melee stab
+attack3=melee charge
+
+:027
+name=Holy Guard Female
+traits=strongtodark
+attack1=melee slash
+attack2=melee charge
+attack3=magic heal
+
+:028
+name=Buccaneer Female
+attack1=melee slash
+attack2=ranged pistol
+attack3=item rope
+
+:029
+name=Wizard Female
+attack1=magic magicmissile
+attack2=magic confuse
+attack3=magic slow
+
+:030
+name=Druid Female
+attack1=ranged bow
+attack2=magic entangle
+attack3=magic heal
+
+:031
+name=Ranger Female
+attack1=ranged trueshot
+attack2=ranged poisonarrow
+attack3=magic invisibility
+
+:032
+name=Barbarian Female
+attack1=melee club
+attack2=melee toss
+attack3=melee charge
+
+:033
+name=Sorcerer
+attack1=magic slow
+attack2=magic fireball
+attack3=magic invisibility
+
+:034
+name=Blacksmith
+attack1=melee slash
+attack2=melee stab
+attack3=none
+
+:035
+name=Master Baker
+attack1=ranged bread
+attack2=melee stab
+attack3=none
+
+:036
+name=Highwayman
+attack1=melee slash
+attack2=item rope
+attack3=item bomb
+
+:037
+name=Gladiator
+attack1=melee toss
+attack2=melee axe
+attack3=ranged net
+
+:038
+name=Monk Apprentice
+attack1=melee punch
+attack2=melee kick
+attack3=none
+
+:039
+name=White Hand Monk
+attack1=melee punch
+attack2=melee kick
+attack3=melee openpalm
+
+:040
+name=Red Hand Monk
+attack1=melee punch
+attack2=melee kick
+attack3=melee closedfist
+
+:041
+name=Monk Master
+attack1=melee openpalm
+attack2=melee closedfist
+attack3=melee threehands
+
+:042
+name=White Hand Sister
+attack1=melee openpalm
+attack2=none
+attack3=none
+
+:043
+name=Dark Acolyte
+traits=weaktolight
+attack1=magic darkness
+attack2=magic fireball
+attack3=none
+
+:044
+name=Acolyte Priest
+traits=weaktolight
+attack1=magic darkness
+attack2=magic fireball
+attack3=magic confuse
+
+:045
+name=Acolyte Lord
+traits=weaktolight
+attack1=magic darkness
+attack2=magic confuse
+attack3=magic summon043
+
+:046
+name=Underling
+traits=weaktolight
+attack1=melee bite
+attack2=magic confuse
+attack3=none
+
+:047
+name=Underling Mage
+traits=weaktolight
+attack1=magic confuse
+attack2=magic magicmissile
+attack3=magic darkness
+
+:048
+name=Witch
+traits=weaktowater
+attack1=magic poison
+attack2=magic confuse
+attack3=magic jump
+
+:049
+name=Elf Ranger
+attack1=melee stab
+attack2=ranged poisonarrow
+attack3=ranged trueshot
+
+:050
+name=Elf Warrior
+attack1=melee slash
+attack2=melee staff
+attack3=ranged bow
+
+:051
+name=Elf Mage
+attack1=magic slow
+attack2=magic invisibility
+attack3=ranged poisonarrow
+
+:052
+name=Elf Ranger Female
+attack1=melee stab
+attack2=ranged poisonarrow
+attack3=ranged trueshot
+
+:053
+name=Elf Mage Female
+attack1=magic slow
+attack2=magic invisibility
+attack3=ranged poisonarrow
+
+:054
+name=High Elf Ranger
+attack1=melee stab
+attack2=ranged longbow
+attack3=ranged firearrow
+
+:055
+name=High Elf Warrior
+attack1=melee slash
+attack2=melee toss
+attack3=ranged firearrow
+
+:056
+name=High Elf Mage
+attack1=magic blindinglight
+attack2=magic magicmissile
+attack3=ranged firearrow
+
+:057
+name=High Elf Ranger Female
+attack1=melee stab
+attack2=ranged longbow
+attack3=ranged firearrow
+
+:058
+name=High Elf Mage Female
+attack1=magic blindinglight
+attack2=magic magicmissile
+attack3=ranged firearrow
+
+:059
+name=Drow Ranger
+attack1=melee slash
+attack2=ranged longbow
+attack3=ranged icearrow
+
+:060
+name=Drow Warrior
+attack1=melee slash
+attack2=melee axe
+attack3=ranged icearrow
+
+:061
+name=Drow Mage
+attack1=magic magicmissile
+attack2=magic darkness
+attack3=ranged icearrow
+
+:062
+name=Drow Ranger Female
+attack1=melee slash
+attack2=ranged longbow
+attack3=ranged icearrow
+
+:063
+name=Drow Mage Female
+attack1=magic magicmissile
+attack2=magic darkness
+attack3=ranged icearrow
+
+:064
+name=Drow Bandit
+attack1=ranged icearrow
+attack2=magic darkness
+attack3=melee axe
+
+:065
+name=Swordsdwarf
+attack1=melee slash
+attack2=melee thrust
+attack3=magic shield
+
+:066
+name=Axedwarf
+attack1=melee axe
+attack2=melee slash
+attack3=magic shield
+
+:067
+name=Magedwarf
+attack1=magic explosion
+attack2=melee staff
+attack3=magic shield
+
+:068
+name=Speardwarf
+attack1=melee stab
+attack2=melee thrust
+attack3=magic shield
+
+:069
+name=Dwarven King
+attack1=melee slash
+attack2=magic explosion
+attack3=magic shield
+
+:070
+name=Deep Swordsdwarf
+attack1=melee slash
+attack2=melee thrust
+attack3=magic darkness
+
+:071
+name=Deep Axedwarf
+attack1=melee axe
+attack2=melee slash
+attack3=magic darkness
+
+:072
+name=Deep Magedwarf
+attack1=magic explosion
+attack2=melee staff
+attack3=magic darkness
+
+:073
+name=Deep Speardwarf
+attack1=melee stab
+attack2=melee thrust
+attack3=magic darkness
+
+:074
+name=Deep Dwarven King
+attack1=melee slash
+attack2=magic explosion
+attack3=magic darkness
+
+:075
+name=Rogue Deep Dwarf
+attack1=magic explosion
+attack2=magic darkness
+attack3=melee axe
+
+:076
+name=Halfling Warrior
+attack1=melee stab
+attack2=magic heal
+attack3=none
+
+:077
+name=Halfling Ranger
+attack1=ranged bow
+attack2=magic heal
+attack3=none
+
+:078
+name=Halfling Monk
+attack1=melee openpalm
+attack2=magic heal
+attack3=none
+
+:079
+name=Kobold Warrior
+attack1=melee thrust
+attack2=melee charge
+attack3=none
+
+:080
+name=Kobold Ranger
+attack1=ranged trueshot
+attack2=ranged longbow
+attack3=none
+
+:081
+name=Goblin
+attack1=melee axe
+attack2=melee toss
+attack3=none
+
+:082
+name=Goblin Female
+attack1=melee axe
+attack2=melee toss
+attack3=none
+
+:083
+name=Goblin Fighter
+attack1=melee axe
+attack2=melee staff
+attack3=melee stab
+
+:084
+name=Goblin Sorcerer
+attack1=melee axe
+attack2=magic confuse
+attack3=magic poison
+
+:085
+name=Orc
+attack1=melee punch
+attack2=melee toss
+attack3=melee charge
+
+:086
+name=Orc Fighter
+attack1=melee punch
+attack2=melee charge
+attack3=melee thrust
+
+:087
+name=Half-Orc
+attack1=melee slash
+attack2=melee charge
+attack3=melee toss
+
+:088
+name=Half-Orc Fighter
+attack1=melee slash
+attack2=melee thrust
+attack3=melee toss
+
+:089
+name=Triclops Mage
+attack1=magic fireball
+attack2=magic poison
+attack3=magic shock
+
+:090
+name=Triclops Cleric
+attack1=magic heal
+attack2=magic poison
+attack3=magic shield
+
+:091
+name=Triclops Warrior
+attack1=melee stab
+attack2=magic heal
+attack3=melee threehands
+
+:092
+name=Gnome Ranger
+attack1=ranged bow
+attack2=ranged poisonarrow
+attack3=magic poison
+
+:093
+name=Gnome Fighter
+attack1=melee stabpoison
+attack2=melee slash
+attack3=melee charge
+
+:094
+name=Gnome Mage
+attack1=magic iceball
+attack2=magic magicmissile
+attack3=melee stab
+
+:095
+name=Gnome King
+attack1=melee toss
+attack2=melee staff
+attack3=melee stabpoison
+
+:096
+name=Gnome High Priest
+attack1=magic heal
+attack2=magic iceball
+attack3=magic invisibility
+
+:097
+name=Skeleton
+attack1=melee slash
+attack2=melee punch
+attack3=none
+
+:098
+name=Skeleton Fighter
+attack1=melee slash
+attack2=melee axe
+attack3=melee stab
+
+:099
+name=Skeleton Warrior
+attack1=melee slash
+attack2=melee axe
+attack3=melee charge
+
+:100
+name=Lich
+attack1=melee staff
+attack2=magic fireball
+attack3=magic iceball
+
+:101
+name=Lich King
+attack1=magic fireball
+attack2=magic iceball
+attack3=magic invisibility
+
+:102
+name=Burning Skull
+traits=flying
+attack1=magic fireball
+attack2=melee bite
+attack3=none
+
+:103
+name=Frozen Skull
+traits=flying
+attack1=magic iceball
+attack2=melee bite
+attack3=none
+
+:104
+name=Shapeshifter
+attack1=magic polymorphself
+attack2=magic polymorph
+attack3=none
+
+:105
+name=Dark One
+attack1=magic darkness
+attack2=magic shock
+attack3=magic bitepoison
+
+:106
+name=Horned Dark One
+attack1=magic darkness
+attack2=melee charge
+attack3=magic bitepoison
+
+:107
+name=Mummy
+attack1=melee slash
+attack2=magic fireball
+attack3=none
+
+:108
+name=Mummy Lord
+attack1=melee slash
+attack2=magic firebreath
+attack3=none
+
+:109
+name=Pharaoh
+attack1=melee slash
+attack2=magic fireball
+attack3=magic summon107
+
+:110
+name=Reaper
+attack1=melee slash
+attack2=melee axe
+attack3=magic summon99
+
+:111
+name=Vampire
+attack1=melee bite
+attack2=melee bitepoison
+attack3=magic polymorphbat
+
+:112
+name=Vampire King
+attack1=melee bite
+attack2=magic fireball
+attack3=magic polymorphbat
+
+:113
+name=Flame Slug
+attack1=magic fireball
+attack2=ranged firearrow
+attack3=none
+
+:114
+name=Water Slug
+attack1=magic slow
+attack2=ranged icearrow
+attack3=none
+
+:115
+name=Ice Slug
+attack1=magic iceball
+attack2=ranged icearrow
+attack3=magic freeze
+
+:116
+name=Shadow
+traits=nocombat
+attack1=magic darkness
+attack2=none
+attack3=none
+
+:117
+name=Burning Shadow
+attack1=magic darkness
+attack2=magic fireball
+attack3=none
+
+:118
+name=Dark Shadow
+attack1=magic darkness
+attack2=magic explosion
+attack3=none
+
+:119
+name=Grey Ghost
+attack1=magic confuse
+attack2=magic gustbreath
+attack3=magic freeze
+
+:120
+name=Drowned Ghost
+attack1=magic confuse
+attack2=magic iceball
+attack3=magic freeze
+
+:121
+name=Ghost
+attack1=magic confuse
+attack2=magic gustbreath
+attack3=none
+
+:122
+name=Ice Keese
+traits=flying
+attack1=magic iceball
+attack2=magic freeze
+attack3=none
+
+:123
+name=Yeti Ranger
+attack1=magic iceball
+attack2=ranged icearrow
+attack3=ranged tripleshot
+
+:124
+name=Yeti Fighter
+attack1=magic iceball
+attack2=melee slash
+attack3=melee charge
+
+:125
+name=Yeti Mage
+attack1=magic iceball
+attack2=magic freeze
+attack3=melee staff
+
+:126
+name=Yeti Thief
+attack1=magic iceball
+attack2=ranged icearrow
+attack3=magic haste
+
+:127
+name=Yeti Warrior
+attack1=magic iceball
+attack2=melee axe
+attack3=melee stab
+
+:128
+name=Yeti Guard
+attack1=magic iceball
+attack2=melee toss
+attack3=melee charge
+
+:129
+name=Troll
+traits=strongtofire
+attack1=melee club
+attack2=none
+attack3=none
+
+:130
+name=Troll Female
+traits=strongtofire
+attack1=melee club
+attack2=none
+attack3=none
+
+:131
+name=Troll Brawler
+traits=strongtofire
+attack1=melee club
+attack2=melee axe
+attack3=none
+
+:132
+name=Troll Sorcerer
+traits=strongtofire
+attack1=melee club
+attack2=magic slow
+attack3=magic haste
+
+:133
+name=Troll Lord
+traits=strongtofire
+attack1=melee club
+attack2=melee toss
+attack3=magic shock
+
+:134
+name=Cyclops Brawler
+attack1=melee club
+attack2=melee punch
+attack3=melee closedfist
+
+:135
+name=Cyclops Warrior
+attack1=melee club
+attack2=melee axe
+attack3=melee stab
+
+:136
+name=Cyclops Monk
+attack1=melee club
+attack2=melee staff
+attack3=melee openfist
+
+:137
+name=Cyclops Cleric
+attack1=melee club
+attack2=magic heal
+attack3=magic pray
+
+:138
+name=Cyclops Lord
+attack1=melee club
+attack2=melee toss
+attack3=magic paralyze
+
+:139
+name=Gremlin Brawler
+attack1=melee club
+attack2=melee charge
+attack3=magic jump
+
+:140
+name=Gremlin Warrior
+attack1=melee slash
+attack2=melee thrust
+attack3=magic jump
+
+:141
+name=Gremlin Defender
+attack1=melee stab
+attack2=magic shield
+attack3=magic jump
+
+:142
+name=Yoda
+speed=1500
+attack1=melee staff
+attack2=magic magic missile
+attack3=magic jump
+
+:143
+name=Gremlin Priest
+attack1=magic heal
+attack2=magic magicmissile
+attack3=magic jump
+
+:144
+name=Gremlin King
+attack1=melee thrust
+attack2=magic fireball
+attack3=magic jump
+
+:145
+name=Demon
+traits=strongvslight
+traits=flying
+attack1=magic paralyze
+attack2=magic firebreath
+attack3=ranged firearrow
+
+:146
+name=Gargoyle
+traits=weakvsice
+attack1=magic iceball
+attack2=magic polymorphself
+attack3=ranged rock
+
+:147
+name=Crabman
+attack1=melee bite
+attack2=magic poison
+attack3=ranged net
+
+:148
+name=Crabman Fighter
+attack1=melee bite
+attack2=melee thrust
+attack3=ranged net
+
+:149
+name=Crabman Cleric
+attack1=magic iceball
+attack2=magic heal
+attack3=ranged net
+
+:150
+name=Brain Sucker
+traits=nocombat
+attack1=magic control
+attack2=magic paralyze
+attack3=none
+
+:151
+name=Brain Sucker Priest
+traits=nocombat
+attack1=magic control
+attack2=magic paralyze
+attack3=magic heal
+
+:152
+name=Angel
+traits=flying
+attack1=magic blindinglight
+attack2=magic magicmissile
+attack3=melee stab
+
+:153
+name=Angel Female
+traits=flying
+attack1=magic blindinglight
+attack2=magic magicmissile
+attack3=melee stab
+
+:154
+name=Imp
+attack1=magic fireball
+attack2=magic iceball
+attack3=magic confuse
+
+:155
+name=Demon Warrior
+attack1=magic firebreath
+attack2=magic polymorph
+attack3=none
+
+:156
+name=Firefly
+traits=runs
+attack1=magic magicmissile
+attack2=magic blindinglight
+attack3=none
+
+:157
+name=Mote
+traits=runs,nocombat
+attack1=magic polymorph
+attack2=none
+attack3=none
+
+:158
+name=Floating Head
+attack1=melee bite
+attack2=magic magicmissile
+attack3=none
+
+:159
+name=Floating Head Female
+attack1=melee bite
+attack2=magic magicmissile
+attack3=none
+
+:160
+name=Floating Skull
+attack1=melee bite
+attack2=magic magicmissile
+attack3=magic freeze
+
+:161
+name=Stone Elemental
+attack1=magic paralyze
+attack2=ranged rock
+attack3=magic poison
+
+:162
+name=Iron Elemental
+attack1=melee thrust
+attack2=melee spin
+attack3=ranged pistol
+
+:163
+name=Wood Elemental
+attack1=magic entangle
+attack2=magic poison
+attack3=melee staff
+
+:164
+name=Poison Elemental
+attack1=magic poisonbreath
+attack2=melee stabpoison
+attack3=melee bitepoison
+
+:165
+name=Earth Elemental
+attack1=ranged rock
+attack2=magic entangle
+attack3=magic shield
+
+:166
+name=Ice Elemental
+attack1=magic iceball
+attack2=magic shield
+attack3=magic summon122
+
+:167
+name=Plant Elemental
+attack1=magic entangle
+attack2=magic summon183
+attack3=magic poison
+
+:168
+name=Purple Elemental
+attack1=magic purple
+attack2=melee punch
+attack3=none
+
+:169
+name=Bone Elemental
+attack1=magic toss
+attack2=magic summon100
+attack3=melee staff
+
+:170
+name=Citrus Elemental
+attack1=ranged fruit
+attack2=none
+attack3=none
+
+:171
+name=Fire Elemental
+attack1=magic fireball
+attack2=magic firebreath
+attack3=none
+
+:172
+name=Shadow Elemental
+attack1=magic darkness
+attack2=magic invisibility
+attack3=melee stab
+
+:173
+name=Water Elemental
+attack1=magic iceball
+attack2=magic darkness
+attack3=magic jump
+
+:174
+name=Air Elemental
+traits=flying
+attack1=magic magicmissile
+attack2=melee charge
+attack3=magic haste
+
+:175
+name=Living Statue
+speed=50
+attack1=melee thrust
+attack2=none
+attack3=none
+
+:176
+name=Possessed Living Statue
+speed=50
+attack1=melee thrust
+attack2=melee charge
+attack3=none
+
+:177
+name=Dark Blob
+speed=500
+attack1=magic darkness
+attack2=melee bite
+attack3=none
+
+:178
+name=Shit Blob
+speed=500
+attack1=magic poison
+attack2=melee bite
+attack3=none
+
+:179
+name=Blob
+speed=500
+attack1=melee bite
+attack2=magic jump
+attack3=none
+
+:180
+name=Floating Eye
+speed=700
+traits=flying
+attack1=magic slow
+attack2=magic magicmissile
+attack3=none
+
+:181
+name=Beholder
+traits=flying
+attack1=magic paralyze
+attack2=magic fireball
+attack3=magic magicmissile
+
+:182
+name=Stonegazer
+traits=flying
+attack1=magic paralyze
+attack2=ranged rock
+attack3=magic magicmissile
+
+:183
+name=Ent
+speed=900
+attack1=magic entangle
+attack2=melee staff
+attack3=melee stabpoison
+
+:184
+name=Ent Female
+speed=900
+attack1=magic entangle
+attack2=melee staff
+attack3=melee stabpoison
+
+:185
+name=Jelly
+speed=500
+attack1=melee bitepoison
+attack2=magic jump
+attack3=none
+
+:186
+name=Dire Jelly
+speed=500
+attack1=magic poison
+attack2=magic jump
+attack3=none
+
+:187
+name=Bugbear
+speed=1100
+attack1=magic charge
+attack2=magic bite
+attack3=none
+
+:188
+name=Dire Bugbear
+speed=1200
+attack1=magic slash
+attack2=magic bite
+attack3=magic haste
+
+:189
+name=Cube of Redness
+traits=nocombat
+attack1=magic red
+attack2=none
+attack3=none
+
+:190
+name=Cube of Purpleness
+traits=nocombat
+attack1=magic purple
+attack2=none
+attack3=none
+
+:191
+name=Cube of Greenness
+traits=nocombat
+attack1=magic green
+attack2=none
+attack3=none
+
+:192
+name=Mimic
+speed=400
+attack1=melee bite
+attack2=magic slow
+attack3=magic haste
+
+:193
+name=Rat
+attack1=melee bite
+attack2=none
+attack3=none
+
+:194
+name=Dire Rat
+attack1=melee bite
+attack2=melee slash
+attack3=none
+
+:195
+name=Black Cat
+attack1=melee bite
+attack2=none
+attack3=none
+
+:196
+name=Tabby
+traits=runs
+attack1=melee bite
+attack2=none
+attack3=none
+
+:197
+name=Poison Snake
+attack1=melee bitepoison
+attack2=none
+attack3=none
+
+:198
+name=Garter Snake
+speed = 1300;
+attack1=melee bite
+attack2=magic jump
+attack3=none
+
+:199
+name=Sand Scorpion
+attack1=melee stabpoison
+attack2=melee stab
+attack3=none
+
+:200
+name=Dark Scorpion
+attack1=melee stabpoison
+attack2=magic darkness
+attack3=none
+
+:201
+name=Dark Spider
+attack1=melee bite
+attack2=magic darkness
+attack3=ranged net
+
+:202
+name=Poison Spider
+attack1=melee bitepoison
+attack2=magic jump
+attack3=ranged net
+
+:203
+name=Giant Spider
+speed=1100
+attack1=melee bite
+attack2=magic jump
+attack3=ranged net
+
+:204
+name=Flies
+speed=1200
+traits=flying,runs
+attack1=melee bite
+attack2=none
+attack3=none
+
+:205
+name=Koi
+traits=runs
+speed=600
+attack1=melee splash
+attack2=none
+attack3=none
+
+:206
+name=Cucco
+traits=runs,flying
+attack1=melee peck
+attack2=none
+attack3=none
+
+:207
+name=Bat
+traits=flying
+attack1=melee bite
+attack2=magic haste
+attack3=none
+
+:208
+name=Dark Bat
+traits=flying
+attack1=melee bite
+attack2=magic darkness
+attack3=magic haste
+
+:209
+name=Dire Hound
+attack1=melee bite
+attack2=melee haste
+attack3=none
+
+:210
+name=Puppy
+traits=runs
+attack1=melee bite
+attack2=none
+attack3=none
+
+:211
+name=Sheep
+traits=runs
+attack1=none
+attack2=none
+attack3=none
+
+:212
+name=Walrus with Legs
+attack1=melee charge
+attack2=melee toss
+attack3=melee stab
+
+:213
+name=Turkey
+traits=runs
+attack1=melee bite
+attack2=melee kick
+attack3=none
+
+:214
+name=Boar
+attack1=melee bite
+attack2=melee charge
+attack3=none
+
+:215
+name=Silverback Gorilla
+attack1=melee charge
+attack2=melee toss
+attack3=melee punch
+
+:216
+name=Chimpanzee
+attack1=melee toss
+attack2=melee punch
+attack3=none
+
+:217
+name=Wolf
+attack1=melee bite
+attack2=magic charge
+attack3=none
+
+:218
+name=Moose
+attack1=melee bite
+attack2=melee kick
+attack3=none
+
+:219
+name=Deer
+traits=runs
+attack1=none
+attack2=none
+attack3=none
+
+:220
+name=Bear
+attack1=melee bite
+attack2=melee slash
+attack3=melee charge
+
+:221
+name=Horse
+traits=runs
+attack1=melee charge
+attack2=melee kick
+attack3=none
+
+:222
+name=Mule
+traits=runs
+attack1=melee kick
+attack2=none
+attack3=none
+
+:223
+name=Pegasus
+traits=flying
+attack1=melee charge
+attack2=melee kick
+attack3=magic blindinglight
+
+:224
+name=Lion
+attack1=melee bite
+attack2=melee charge
+attack3=melee slash
+
+:225
+name=Red Egg
+speed=0
+attack1=melee hatch
+attack2=none
+attack3=none
+
+:226
+name=Yellow Egg
+speed=0
+attack1=melee hatch
+attack2=none
+attack3=none
+
+:227
+name=Green Egg
+speed=0
+attack1=melee hatch
+attack2=none
+attack3=none
+
+:228
+name=Blue Egg
+speed=0
+attack1=melee hatch
+attack2=none
+attack3=none
+
+:229
+name=White Egg
+speed=0
+attack1=melee hatch
+attack2=none
+attack3=none
+
+:230
+name=Red Wurmling
+attack1=melee bite
+attack2=magic fireball
+attack3=none
+
+:231
+name=Yellow Wurmling
+attack1=melee bite
+attack2=magic shock
+attack3=none
+
+:232
+name=Green Wurmling
+attack1=melee bite
+attack2=magic poison
+attack3=none
+
+:233
+name=Blue Wurmling
+attack1=melee bite
+attack2=magic slow
+attack3=none
+
+:234
+name=Silver Wurmling
+attack1=melee bite
+attack2=magic invisibility
+attack3=none
+
+:235
+name=Birdman Soldier
+traits=flying
+attack1=melee peck
+attack2=melee slash
+attack3=magic entangle
+
+:236
+name=Birdman Scout
+traits=flying
+attack1=melee peck
+attack2=ranged rock
+attack3=melee stab
+
+:237
+name=Birdman Guard
+traits=flying
+attack1=melee peck
+attack2=melee charge
+attack3=magic entangle
+
+:238
+name=Birdman Tribe Leader
+traits=flying
+attack1=melee peck
+attack2=melee staff
+attack3=magic gustbreath
+
+:239
+name=Salamander
+traits=runs
+attack1=magic fireball
+attack2=melee bite
+attack3=none
+
+:240
+name=Gecko
+traits=runs
+attack1=melee bitepoison
+attack2=magic jump
+attack3=none
+
+:241
+name=Red Drake
+traits=flying
+attack1=melee slash
+attack2=magic firebreath
+attack3=none
+
+:242
+name=
+attack1=
+attack2=
+attack3=
+
+:243
+name=Yellow Drake
+health=50
+traits=flying
+attack1=melee slash
+attack2=magic elecbreath
+attack3=none
+
+:244
+name=
+attack1=
+attack2=
+attack3=
+
+:245
+name=Green Drake
+health=50
+traits=flying
+attack1=melee slash
+attack2=magic poisonbreath
+attack3=none
+
+:246
+name=
+attack1=
+attack2=
+attack3=
+
+:247
+name=Blue Drake
+health=50
+traits=flying
+attack1=melee slash
+attack2=magic gustbreath
+attack3=none
+
+:248
+name=
+attack1=
+attack2=
+attack3=
+
+:249
+name=Silver Drake
+health=50
+traits=flying
+attack1=melee slash
+attack2=magic summon096
+attack3=none
+
+:250
+name=
+attack1=
+attack2=
+attack3=
+
+:251
+name=Manticore
+health=50
+attack1=magic firebreath
+attack2=melee slash
+attack3=melee charge
+
+:252
+name=
+attack1=
+attack2=
+attack3=
+
+:253
+name=Chicksnakentiger
+health=50
+traits=flying,runs
+attack1=melee bite
+attack2=magic fireball
+attack3=melee charge
+
+:254
+name=
+attack1=
+attack2=
+attack3=
+
+:255
+name=Basilisk
+health=50
+attack1=melee bite
+attack2=magic paralyze
+attack3=magic slow
+
+:256
+name=
+attack1=
+attack2=
+attack3=
+
+:257
+name=Fire Dragon
+health=100
+traits=flying
+attack1=magic fireball
+attack2=magic firebreath
+attack3=magic explosion
+
+:258
+name=
+attack1=
+attack2=
+attack3=
+
+:259
+name=Thunder Dragon
+health=100
+traits=flying
+attack1=magic shock
+attack2=magic elecbreath
+attack3=magic blindinglight
+
+:260
+name=
+attack1=
+attack2=
+attack3=
+
+:261
+name=Earth Dragon
+health=100
+traits=flying
+attack1=magic poison
+attack2=magic poisonbreath
+attack3=magic paralyze
+
+:262
+name=
+attack1=
+attack2=
+attack3=
+
+:263
+name=Wind Dragon
+health=100
+traits=flying
+attack1=magic slow
+attack2=magic gustbreath
+attack3=magic summon233
+
+:264
+name=
+attack1=
+attack2=
+attack3=
+
+:265
+name=Platinum Dragon
+health=100
+traits=flying
+attack1=magic invisibility
+attack2=magic summon099
+attack3=ranged pistol
+
+:266
+name=
+attack1=
+attack2=
+attack3=
+
+:267
+name=Bahamut
+health=110
+traits=flying
+attack1=magic firebreath
+attack2=magic gustbreath
+attack3=magic poisonbreath
+
+:268
+name=
+attack1=
+attack2=
+attack3=
+
+:269
+name=Nicol Bolas
+health=100
+traits=flying
+attack1=magic firebreath
+attack2=magic explosion
+attack3=magic darkness
+
+:270
+name=
+attack1=
+attack2=
+attack3=
+
+:271
+name=Giant Cyclops Lord
+health=100
+attack1=melee club
+attack2=melee charge
+attack3=melee toss
+
+:272
+name=
+attack1=
+attack2=
+attack3=
+
+:273
+name=
+attack1=
+attack2=
+attack3=
+
+:274
+name=
+attack1=
+attack2=
+attack3=
+
+:275
+name=
+attack1=
+attack2=
+attack3=
+
+:276
+name=
+attack1=
+attack2=
+attack3=
+
+:277
+name=
+attack1=
+attack2=
+attack3=
+
+:278
+name=
+attack1=
+attack2=
+attack3=
+
+:279
+name=
+attack1=
+attack2=
+attack3=
+
+:280
+name=
+attack1=
+attack2=
+attack3=
+
+:281
+name=
+attack1=
+attack2=
+attack3=
+
+:282
+name=
+attack1=
+attack2=
+attack3=
+
+:283
+name=
+attack1=
+attack2=
+attack3=
+
+:284
+name=
+attack1=
+attack2=
+attack3=
+
+:285
+name=
+attack1=
+attack2=
+attack3=
+
+:286
+name=
+attack1=
+attack2=
+attack3=
+
+:287
+name=
+attack1=
+attack2=
+attack3=
+
+:288
+name=
+attack1=
+attack2=
+attack3=
+
+:289
+name=Minotaur
+health=80
+attack1=melee charge
+attack2=melee axe
+attack3=magic fireball
+
+:290
+name=
+attack1=
+attack2=
+attack3=
+
+:291
+name=Gojira
+health=80
+attack1=magic fireball
+attack2=melee axe
+attack3=magic heal
+
+:292
+name=
+attack1=
+attack2=
+attack3=
+
+:293
+name=Medusa
+health=80
+attack1=magic paralyze
+attack2=magic freeze
+attack3=magic poisonbreath
+
+:294
+name=
+attack1=
+attack2=
+attack3=
+
+:295
+name=Iron Golem
+health=80
+attack1=melee club
+attack2=ranged longbow
+attack3=magic confusion
+
+:296
+name=
+attack1=
+attack2=
+attack3=
+
+:297
+name=Ice Golem
+health=80
+attack1=melee club
+attack2=ranged icearrow
+attack3=magic confusion
+
+:298
+name=
+attack1=
+attack2=
+attack3=
+
+:299
+name=Rock Golem
+health=80
+attack1=melee club
+attack2=ranged rock
+attack3=magic confusion
+
+:300
+name=
+attack1=
+attack2=
+attack3=
+
+:301
+name=Genie
+health=80
+traits=flying
+attack1=magic confusion
+attack2=magic freeze
+attack3=magic iceball
+
+:302
+name=
+attack1=
+attack2=
+attack3=
+
+:303
+name=Ent King
+health=80
+attack1=magic entangle
+attack2=ranged poisonarrow
+attack3=ranged tripleshot
+
+:304
+name=
+attack1=
+attack2=
+attack3=
+
+:305
+name=
+attack1=
+attack2=
+attack3=
+
+:306
+name=
+attack1=
+attack2=
+attack3=
+
+:307
+name=
+attack1=
+attack2=
+attack3=
+
+:308
+name=
+attack1=
+attack2=
+attack3=
+
+:309
+name=
+attack1=
+attack2=
+attack3=
+
+:310
+name=
+attack1=
+attack2=
+attack3=
+
+:311
+name=
+attack1=
+attack2=
+attack3=
+
+:312
+name=
+attack1=
+attack2=
+attack3=
+
+:313
+name=
+attack1=
+attack2=
+attack3=
+
+:314
+name=
+attack1=
+attack2=
+attack3=
+
+:315
+name=
+attack1=
+attack2=
+attack3=
+
+:316
+name=
+attack1=
+attack2=
+attack3=
+
+:317
+name=
+attack1=
+attack2=
+attack3=
+
+:318
+name=
+attack1=
+attack2=
+attack3=
+
+:319
+name=
+attack1=
+attack2=
+attack3=
+
+:320
+name=
+attack1=
+attack2=
+attack3=
+
+:321
+name=Great Eye
+health=80
+traits=flying
+attack1=magic paralyze
+attack2=magic magicmissile
+attack3=melee kick
+
+:322
+name=
+attack1=
+attack2=
+attack3=
+
+:323
+name=Centaur
+health=80
+attack1=melee kick
+attack2=melee thrust
+attack3=ranged tripleshot
+
+:324
+name=
+attack1=
+attack2=
+attack3=
+
+:325
+name=Iron Knight
+health=80
+attack1=melee thrust
+attack2=ranged longbow
+attack3=item bomb
+
+:326
+name=
+attack1=
+attack2=
+attack3=
+
+:327
+name=Dragon Knight
+health=80
+attack1=melee thrust
+attack2=ranged firearrow
+attack3=item bomb
+
+:328
+name=
+attack1=
+attack2=
+attack3=
+
+:329
+name=Shadow Knight
+health=80
+attack1=melee thrust
+attack2=ranged icearrow
+attack3=item bomb
+
+:330
+name=
+attack1=
+attack2=
+attack3=
+
+:331
+name=Kraken
+health=80
+attack1=melee slash
+attack2=melee bitepoison
+attack3=melee splash
+
+:332
+name=
+attack1=
+attack2=
+attack3=
+
+:333
+name=Haunted Tree
+health=80
+attack1=melee staff
+attack2=magic summon183
+attack3=magic entangle
+
+:334
+name=
+attack1=
+attack2=
+attack3=
+
+:335
+name=Great Spirit
+health=80
+traits=flying
+attack1=magic magicmissile
+attack2=magic fireball
+attack3=magic iceball
+
+:336
+name=
+attack1=
+attack2=
+attack3=
+
+:337
+name=
+attack1=
+attack2=
+attack3=
+
+:338
+name=
+attack1=
+attack2=
+attack3=
+
+:339
+name=
+attack1=
+attack2=
+attack3=
+
+:340
+name=
+attack1=
+attack2=
+attack3=
+
+:341
+name=
+attack1=
+attack2=
+attack3=
+
+:342
+name=
+attack1=
+attack2=
+attack3=
+
+:343
+name=
+attack1=
+attack2=
+attack3=
+
+:344
+name=
+attack1=
+attack2=
+attack3=
+
+:345
+name=
+attack1=
+attack2=
+attack3=
+
+:346
+name=
+attack1=
+attack2=
+attack3=
+
+:347
+name=
+attack1=
+attack2=
+attack3=
+
+:348
+name=
+attack1=
+attack2=
+attack3=
+
+:349
+name=
+attack1=
+attack2=
+attack3=
+
+:350
+name=
+attack1=
+attack2=
+attack3=
+
+:351
+name=
+attack1=
+attack2=
+attack3=
+
+:352
+name=
+attack1=
+attack2=
+attack3=
+
+:353
+name=Green Squad Soldier
+attack1=ranged pistol
+attack2=ranged rifle
+attack3=melee stab
+
+:354
+name=Green Squad Commando
+attack1=ranged pistol
+attack2=ranged rifle
+attack3=melee toss
+
+:355
+name=Green Squad Engineer
+attack1=ranged pistol
+attack2=item bomb
+attack3=item rope
+
+:356
+name=Green Squad Sniper
+attack1=ranged sniper
+attack2=ranged pistol
+attack3=item rope
+
+:357
+name=Green Squad Gunner
+attack1=ranged rifle
+attack2=ranged pistol
+attack3=ranged machinegun
+
+:358
+name=Green Squad Demolitions
+attack1=ranged pistol
+attack2=ranged rifle
+attack3=item bomb
+
+:359
+name=Green Squad Prisioner
+attack1=none
+attack2=none
+attack3=none
+
+:360
+name=Blue Squad Soldier
+attack1=ranged pistol
+attack2=ranged rifle
+attack3=melee stab
+
+:361
+name=Blue Squad Commando
+attack1=ranged pistol
+attack2=ranged rifle
+attack3=melee toss
+
+:362
+name=Blue Squad Engineer
+attack1=ranged pistol
+attack2=item bomb
+attack3=item rope
+
+:363
+name=Blue Squad Sniper
+attack1=ranged sniper
+attack2=ranged pistol
+attack3=item rope
+
+:364
+name=Blue Squad Gunner
+attack1=ranged rifle
+attack2=ranged pistol
+attack3=ranged machinegun
+
+:365
+name=Blue Squad Demolitions
+attack1=ranged pistol
+attack2=ranged rifle
+attack3=item bomb
+
+:366
+name=Blue Squad SWAT
+attack1=melee charge
+attack2=magic shield
+attack3=melee openpalm
+
+:367
+name=Skull Squad Leader
+attack1=ranged machinegun
+attack2=item rope
+attack3=magic explosion
+
+:368
+name=Polly
+traits=flying
+attack1=melee peck
+attack2=none
+attack3=none
+
+:369
+name=Astronaut
+attack1=ranged pistol
+attack2=magic jump
+attack3=none
+
+:370
+name=Space Explorer
+attack1=magic magicmissile
+attack2=magic jump
+attack3=none
+
+:371
+name=Cosmonaut
+attack1=magic fireball
+attack2=magic jump
+attack3=none
+
+:372
+name=Alien Robot
+attack1=magic shock
+attack2=magic jump
+attack3=none
+
+:373
+name=Alien
+attack1=magic poison
+attack2=magic jump
+attack3=none
+
+:374
+name=Alien Soldier
+attack1=magic iceball
+attack2=magic jump
+attack3=none
+
+:375
+name=Baby Boy
+speed=400
+attack1=none
+attack2=none
+attack3=none
+
+:376
+name=Baby Girl
+speed=400
+attack1=none
+attack2=none
+attack3=none
+
+:377
+name=Dire Baby
+speed=400
+attack1=melee bite
+attack2=none
+attack3=none
+
+:378
+name=Robot
+attack1=magic shock
+attack2=magic lightningbreath
+attack3=none
+
+:379
+name=Shy Guy
+traits=runs,nocombat
+attack1=magic jump
+attack2=magic haste
+attack3=magic slow
+
+:380
+name=Link
+attack1=melee spin
+attack2=ranged firearrow
+attack3=item bomb
+
+:381
+name=GIANT ROBOT
+attack1=magic shock
+attack2=magic lightningbreath
+attack3=magic jump
+
+:382
+name=
+attack1=
+attack2=
+attack3=
+
+:383
+name=Cthulhu
+attack1=magic gustbreath
+attack2=magic summon205
+attack3=magic control
+
+:384
+name=
+attack1=
+attack2=
+attack3=
+
+:385
+name=Spelunker
+attack1=melee slash
+attack2=item bomb
+attack3=item rope
+
+:386
+name=Gomez
+attack1=
+attack2=
+attack3=
+
+:387
+name=Red Knight
+attack1=melee slash
+attack2=magic shock
+attack3=ranged bow
+
+:388
+name=Green Knight
+attack1=melee slash
+attack2=magic poison
+attack3=ranged bow
+
+:389
+name=Orange Knight
+attack1=melee slash
+attack2=magic fireball
+attack3=ranged bow
+
+:390
+name=Blue Knight
+attack1=melee slash
+attack2=magic freeze
+attack3=ranged bow
+
+:391
+name=Tim
+traits=nocombat
+attack1=magic paralyze
+attack2=none
+attack3=none
+
+:392
+name=Blueberry Eating Toucan
+traits=flying
+attack1=melee toss
+attack2=none
+attack3=none
+
+:393
+name=Naija
+attack1=melee slash
+attack2=item potion
+attack3=melee splash
+
+:394
+name=Darwinian
+attack1=melee punch
+attack2=magic summon394
+attack3=none
+
+:395
+name=Santa
+attack1=ranged present
+attack2=none
+attack3=none
+
+:396
+name=The Invisible Man
+traits=invisible,nocombat
+attack1=none
+attack2=none
+attack3=none
+
+:397
+name=
+attack1=
+attack2=
+attack3=
+
+:398
+name=
+attack1=
+attack2=
+attack3=
+
+:399
+name=
+attack1=
+attack2=
+attack3=
+
+:400
+name=
+attack1=
+attack2=
+attack3=

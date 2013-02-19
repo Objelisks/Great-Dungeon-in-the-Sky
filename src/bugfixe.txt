@@ -1,0 +1,14 @@
+reaper attack
+naija potion
+fbandit jump
+y and z
+firefly text
+maybe freeze bug?
+
+TypeError: Error #1010: A term is undefined and has no properties.
+	at sky.state::OverworldState()[E:\Code\Flash\Projects\Great Dungeon in the Sky Kong\src\sky\state\OverworldState.as:32]
+	at org.flixel::FlxGame/switchState()[E:\Code\Flash\Projects\Great Dungeon in the Sky Kong\src\org\flixel\FlxGame.as:167]
+	at org.flixel::FlxG$/switchState()[E:\Code\Flash\Projects\Great Dungeon in the Sky Kong\src\org\flixel\FlxG.as:695]
+	at <anonymous>()[E:\Code\Flash\Projects\Great Dungeon in the Sky Kong\src\sky\state\LevelState.as:464]
+	at org.flixel.data::FlxFade/update()[E:\Code\Flash\Projects\Great Dungeon in the Sky Kong\src\org\flixel\data\FlxFade.as:54]
+	at org.flixel::FlxGame/onEnterFrame()[E:\Code\Flash\Projects\Great Dungeon in the Sky Kong\src\org\flixel\FlxGame.as:349]

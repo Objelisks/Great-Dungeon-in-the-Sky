@@ -1,0 +1,46 @@
+FlxSave as static object in FlxG
+userData in FlxG
+addReverse in FlxG
+loadBitmap in FlxSprite
+initialize values to 0 in FlxEmitter
+
+		
+		//@desc		Load an image from an embedded graphic file
+		//@param	Graphic		The image you want to use
+		//@param	Animated	Whether the Graphic parameter is a single sprite or a row of sprites
+		//@param	Reverse		Whether you need this class to generate horizontally flipped versions of the animation frames
+		//@param	Width		OPTIONAL - Specify the width of your sprite (helps FlxSprite figure out what to do with non-square sprites or sprite sheets)
+		//@param	Height		OPTIONAL - Specify the height of your sprite (helps FlxSprite figure out what to do with non-square sprites or sprite sheets)
+		//@param	Unique		Whether the graphic should be a unique instance in the graphics cache
+		//@return	This FlxSprite instance (nice for chaining stuff together, if you're into that)
+		public function loadBitmap(Graphic:BitmapData,Animated:Boolean=false,Reverse:Boolean=false,Width:uint=0,Height:uint=0,Unique:Boolean=false):FlxSprite
+		{
+			if (Reverse)
+			{
+				Graphic = FlxG.addReverse(Graphic);
+			}
+			_pixels = Graphic;
+			if(Reverse)
+				_flipped = _pixels.width>>1;
+			else
+				_flipped = 0;
+			if(Width == 0)
+			{
+				if(Animated)
+					Width = _pixels.height;
+				else
+					Width = _pixels.width;
+			}
+			width = _bw = Width;
+			if(Height == 0)
+			{
+				if(Animated)
+					Height = width;
+				else
+					Height = _pixels.height;
+			}
+			height = _bh = Height;
+			resetHelpers();
+			return this;
+		}
+		
