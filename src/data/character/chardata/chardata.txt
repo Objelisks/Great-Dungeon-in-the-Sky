@@ -1,97 +1,97 @@
 ﻿:001
-name=Archer
+name=Archer Male
 attack1=ranged trueshot
 attack2=ranged longbow
 attack3=ranged threeshot
 
 :002
-name=Warrior
+name=Warrior Male
 attack1=melee slash
 attack2=melee stab
 attack3=melee spin
 
 :003
-name=Mage
+name=Mage Male
 attack1=magic magicmissile
 attack2=magic fireball
 attack3=magic shock
 
 :004
-name=Bandit
+name=Bandit Male
 attack1=ranged bow
 attack2=melee stab
 attack3=magic jump
 
 :005
-name=Necromancer
+name=Necromancer Male
 attack1=magic summon097
 attack2=magic shock
 attack3=magic heal
 
 :006
-name=Paladin
+name=Paladin Male
 traits=strongtodark
 attack1=melee thrust
 attack2=ranged firearrow
 attack3=magic heal
 
 :007
-name=Cleric
+name=Cleric Male
 attack1=magic heal
 attack2=melee staff
 attack3=magic pray
 
 :008
-name=Adventurer
+name=Adventurer Male
 attack1=melee slash
 attack2=item rope
 attack3=magic fireball
 
 :009
-name=City Guard
+name=City Guard Male
 attack1=melee toss
 attack2=melee stab
 attack3=melee club
 
 :010
-name=Royal Guard
+name=Royal Guard Male
 attack1=melee toss
 attack2=melee stab
 attack3=melee charge
 
 :011
-name=Holy Guard
+name=Holy Guard Male
 traits=strongtodark
 attack1=melee slash
 attack2=melee charge
 attack3=magic heal
 
 :012
-name=Buccaneer
+name=Buccaneer Male
 attack1=melee slash
 attack2=ranged pistol
 attack3=item rope
 
 :013
-name=Wizard
+name=Wizard Male
 attack1=magic magicmissile
 attack2=magic confuse
 attack3=magic slow
 
 :014
-name=Druid
+name=Druid Male
 attack1=ranged bow
 attack2=magic entangle
 attack3=magic heal
 
 :015
-name=Ranger
+name=Ranger Male
 attack1=ranged trueshot
 attack2=ranged poisonarrow
 attack3=magic invisibility
 
 :016
-name=Barbarian
+name=Barbarian Male
 attack1=melee club
 attack2=melee toss
 attack3=melee charge
@@ -297,7 +297,7 @@ attack2=magic confuse
 attack3=magic jump
 
 :049
-name=Elf Ranger
+name=Elf Ranger Male
 attack1=melee stab
 attack2=ranged poisonarrow
 attack3=ranged trueshot
@@ -309,7 +309,7 @@ attack2=melee staff
 attack3=ranged bow
 
 :051
-name=Elf Mage
+name=Elf Mage Male
 attack1=magic slow
 attack2=magic invisibility
 attack3=ranged poisonarrow
@@ -327,7 +327,7 @@ attack2=magic invisibility
 attack3=ranged poisonarrow
 
 :054
-name=High Elf Ranger
+name=High Elf Ranger Male
 attack1=melee stab
 attack2=ranged longbow
 attack3=ranged firearrow
@@ -339,7 +339,7 @@ attack2=melee toss
 attack3=ranged firearrow
 
 :056
-name=High Elf Mage
+name=High Elf Mage Male
 attack1=magic blindinglight
 attack2=magic magicmissile
 attack3=ranged firearrow
@@ -357,7 +357,7 @@ attack2=magic magicmissile
 attack3=ranged firearrow
 
 :059
-name=Drow Ranger
+name=Drow Ranger Male
 attack1=melee slash
 attack2=ranged longbow
 attack3=ranged icearrow
@@ -369,7 +369,7 @@ attack2=melee axe
 attack3=ranged icearrow
 
 :061
-name=Drow Mage
+name=Drow Mage Male
 attack1=magic magicmissile
 attack2=magic darkness
 attack3=ranged icearrow
@@ -489,7 +489,7 @@ attack2=ranged longbow
 attack3=none
 
 :081
-name=Goblin
+name=Goblin Male
 attack1=melee axe
 attack2=melee toss
 attack3=none
@@ -781,7 +781,7 @@ attack2=melee toss
 attack3=melee charge
 
 :129
-name=Troll
+name=Troll Male
 traits=strongtofire
 attack1=melee club
 attack2=none
@@ -930,7 +930,7 @@ attack2=magic paralyze
 attack3=magic heal
 
 :152
-name=Angel
+name=Angel Male
 traits=flying
 attack1=magic blindinglight
 attack2=magic magicmissile
@@ -970,7 +970,7 @@ attack2=none
 attack3=none
 
 :158
-name=Floating Head
+name=Floating Head Male
 attack1=melee bite
 attack2=magic magicmissile
 attack3=none
@@ -1130,7 +1130,7 @@ attack2=ranged rock
 attack3=magic magicmissile
 
 :183
-name=Ent
+name=Ent Male
 speed=900
 attack1=magic entangle
 attack2=melee staff
